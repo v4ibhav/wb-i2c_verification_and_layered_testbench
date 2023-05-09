@@ -1,0 +1,1227 @@
+# Current time Thu Apr 20 17:36:28 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348e4b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf6545233: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:27'
+# 2    0xf6346a12: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a9b1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346a12: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf6523ec4: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf6524043: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b337: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 00:49:27 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348e4b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf65461c3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346a12: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a9b1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346a12: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf6524144: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf65242c3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b337: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 00:52:35 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6544a62: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_predictor.svh:97'
+# 1    0xf6544d7d: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_predictor.svh:103'
+# 2    0xf6346a72: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf65279f1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/wb_pkg/src/wb_agent.svh:54'
+# 4    0xf6346a72: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf6530540: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/wb_pkg/src/wb_monitor.svh:39'
+# 6    0xf6530693: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/wb_pkg/src/wb_monitor.svh:24'
+# 7    0xf6528a97: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/wb_pkg/src/wb_agent.svh:86'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 01:17:08 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6544e02: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_predictor.svh:102'
+# 1    0xf6346a72: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 2    0xf65279f1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/wb_pkg/src/wb_agent.svh:54'
+# 3    0xf6346a72: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 4    0xf6530540: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/wb_pkg/src/wb_monitor.svh:39'
+# 5    0xf6530693: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/wb_pkg/src/wb_monitor.svh:24'
+# 6    0xf6528a97: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/wb_pkg/src/wb_agent.svh:86'
+# 7    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 8    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 9    0x081aa244: '<unknown (@0x81aa244)>'
+# 10   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 11   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 12   0x08853467: '<unknown (@0x8853467)>'
+# 13   0x0885523f: '<unknown (@0x885523f)>'
+# 14   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 15   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 16   0x0a20327a: '<unknown (@0xa20327a)>'
+# 17   0x0a208803: '<unknown (@0xa208803)>'
+# 18   0x0a20891a: '<unknown (@0xa20891a)>'
+# 19   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 20   0x0a20a336: '<unknown (@0xa20a336)>'
+# 21   0x08da3967: '<unknown (@0x8da3967)>'
+# 22   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 23   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 24   0x0a30f178: '<unknown (@0xa30f178)>'
+# 25   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 26   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 27   0x0a09c275: '<unknown (@0xa09c275)>'
+# 28   0x08817bff: '<unknown (@0x8817bff)>'
+# 29   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 01:20:24 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6544e02: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_predictor.svh:102'
+# 1    0xf6346a72: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 2    0xf65279f1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/wb_pkg/src/wb_agent.svh:54'
+# 3    0xf6346a72: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 4    0xf6530540: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/wb_pkg/src/wb_monitor.svh:39'
+# 5    0xf6530693: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/wb_pkg/src/wb_monitor.svh:24'
+# 6    0xf6528a97: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/wb_pkg/src/wb_agent.svh:86'
+# 7    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 8    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 9    0x081aa244: '<unknown (@0x81aa244)>'
+# 10   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 11   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 12   0x08853467: '<unknown (@0x8853467)>'
+# 13   0x0885523f: '<unknown (@0x885523f)>'
+# 14   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 15   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 16   0x0a20327a: '<unknown (@0xa20327a)>'
+# 17   0x0a208803: '<unknown (@0xa208803)>'
+# 18   0x0a20891a: '<unknown (@0xa20891a)>'
+# 19   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 20   0x0a20a336: '<unknown (@0xa20a336)>'
+# 21   0x08da3967: '<unknown (@0x8da3967)>'
+# 22   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 23   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 24   0x0a30f178: '<unknown (@0xa30f178)>'
+# 25   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 26   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 27   0x0a09c275: '<unknown (@0xa09c275)>'
+# 28   0x08817bff: '<unknown (@0x8817bff)>'
+# 29   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 01:29:27 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348e4b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf65461a3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346a12: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a9b1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346a12: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf6524144: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf65242c3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b337: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 01:35:47 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348e4b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf6546133: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346a12: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a9b1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346a12: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf6524144: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf65242c3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b337: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 01:36:58 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348e4b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf6546133: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346a12: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a9b1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346a12: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf6524144: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf65242c3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b337: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 02:10:23 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348e4b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf65461a3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346a12: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a9b1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346a12: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf65241c4: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf6524343: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b337: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 02:11:44 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348e4b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf65461a3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346a12: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a9b1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346a12: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf65241c4: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf6524343: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b337: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 02:12:48 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348e4b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf65461b3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346a12: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a9b1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346a12: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf65241c4: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf6524343: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b337: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 02:16:05 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348e4b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf6546363: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346a12: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a9b1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346a12: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf6524284: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf6524403: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b337: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 02:25:03 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348e4b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf65464b3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346a12: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a9b1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346a12: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf65242c4: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf6524443: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b337: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 02:32:09 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348dbb: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf65460d3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346982: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a921: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346982: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf6524174: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf65242f3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b2a7: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 03:04:25 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348d5b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf6546a53: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a8c1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf6524154: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf65242d3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b247: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 03:09:34 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348d5b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf6546a63: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a8c1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf6524154: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf65242d3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b247: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 03:12:21 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348d5b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf6546af3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a8c1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf65241d4: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf6524353: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b247: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 14:44:27 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf667bbff: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_predictor.svh:72'
+# 1    0xf647e922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 2    0xf665f8e1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/wb_pkg/src/wb_agent.svh:54'
+# 3    0xf647e922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 4    0xf6668430: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/wb_pkg/src/wb_monitor.svh:39'
+# 5    0xf6668583: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/wb_pkg/src/wb_monitor.svh:24'
+# 6    0xf6660987: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/wb_pkg/src/wb_agent.svh:86'
+# 7    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 8    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 9    0x081aa244: '<unknown (@0x81aa244)>'
+# 10   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 11   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 12   0x08853467: '<unknown (@0x8853467)>'
+# 13   0x0885523f: '<unknown (@0x885523f)>'
+# 14   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 15   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 16   0x0a20327a: '<unknown (@0xa20327a)>'
+# 17   0x0a208803: '<unknown (@0xa208803)>'
+# 18   0x0a20891a: '<unknown (@0xa20891a)>'
+# 19   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 20   0x0a20a336: '<unknown (@0xa20a336)>'
+# 21   0x08da3967: '<unknown (@0x8da3967)>'
+# 22   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 23   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 24   0x0a30f178: '<unknown (@0xa30f178)>'
+# 25   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 26   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 27   0x0a09c275: '<unknown (@0xa09c275)>'
+# 28   0x08817bff: '<unknown (@0x8817bff)>'
+# 29   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 17:53:05 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348d5b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf6546523: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a8c1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf6524054: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf65241d3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b247: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 17:55:40 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348d5b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf6546533: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a8c1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf6524054: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf65241d3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b247: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 17:58:46 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348d5b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf65465d3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a8c1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf65240d4: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf6524253: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b247: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 18:16:52 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348d5b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf6546673: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a8c1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf6524094: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf6524213: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b247: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 18:18:15 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348d5b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf6546763: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a8c1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf6524094: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf6524213: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b247: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 18:21:20 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348d5b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf6546673: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a8c1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf6524094: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf6524213: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b247: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 18:23:58 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348d5b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf65466c3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a8c1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf65240d4: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf6524253: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b247: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 18:26:04 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348d5b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf65466c3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a8c1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf65240d4: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf6524253: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b247: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 18:31:54 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348d5b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf6546793: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a8c1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf65240d4: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf6524253: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b247: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 18:41:13 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348d5b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf65468e3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a8c1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf6524214: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf6524393: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b247: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 18:43:05 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348d5b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf6546943: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a8c1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf6524254: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf65243d3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b247: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
+# Current time Fri Apr 21 18:51:42 2023
+# Program = vsim
+# Id = "2022.2_1"
+# Version = "2022.05"
+# Date = "May 19 2022"
+# Platform = "linux"
+# Signature = ad023991cfb54258fd275c6be907a2aa
+# 0    0xf6348d5b: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_transaction.svh:24'
+# 1    0xf65466c3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/environment_packages/i2cmb_env_pkg/src/i2cmb_scoreboard.svh:23'
+# 2    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 3    0xf634a8c1: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:54'
+# 4    0xf6346922: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/ncsu_pkg/src/ncsu_component.svh:21'
+# 5    0xf6524254: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:43'
+# 6    0xf65243d3: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_monitor.svh:23'
+# 7    0xf634b247: '/mnt/ncsudrive/v/vsharm22/ece745_projects/project_benches/proj_3/sim/../../../verification_ip/interface_packages/i2c_pkg/src/i2c_agent.svh:72'
+# 8    0x09d6dfb9: '<unknown (@0x9d6dfb9)>'
+# 9    0x082fb5c4: '<unknown (@0x82fb5c4)>'
+# 10   0x081aa244: '<unknown (@0x81aa244)>'
+# 11   0x08338a5d: '<unknown (@0x8338a5d)>'
+# 12   0x0884ddc0: '<unknown (@0x884ddc0)>'
+# 13   0x08853467: '<unknown (@0x8853467)>'
+# 14   0x0885523f: '<unknown (@0x885523f)>'
+# 15   0x08b1f227: '<unknown (@0x8b1f227)>'
+# 16   0x0a203c8b: '<unknown (@0xa203c8b)>'
+# 17   0x0a20327a: '<unknown (@0xa20327a)>'
+# 18   0x0a208803: '<unknown (@0xa208803)>'
+# 19   0x0a20891a: '<unknown (@0xa20891a)>'
+# 20   0x0a209fc1: '<unknown (@0xa209fc1)>'
+# 21   0x0a20a336: '<unknown (@0xa20a336)>'
+# 22   0x08da3967: '<unknown (@0x8da3967)>'
+# 23   0x0a2b2037: '<unknown (@0xa2b2037)>'
+# 24   0x0a30c30c: '<unknown (@0xa30c30c)>'
+# 25   0x0a30f178: '<unknown (@0xa30f178)>'
+# 26   0x0a2cb538: '<unknown (@0xa2cb538)>'
+# 27   0x0a2cb845: '<unknown (@0xa2cb845)>'
+# 28   0x0a09c275: '<unknown (@0xa09c275)>'
+# 29   0x08817bff: '<unknown (@0x8817bff)>'
+# 30   0x086b33de: '<unknown (@0x86b33de)>'
+# End of Stack Trace
+
+
